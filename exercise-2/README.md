@@ -19,7 +19,7 @@ Ingrese dos enteros: 22 8
    | 0        | 100      | cout << 0 % 100; |    0   | Si es un multiplo                        |
    | 100      | 0        | cout << 100 % 0; |  Error | Error al querer sacar el modulo por 0    |
    | -3       | 3        | cout << -3 % 3;  |    0   | Si es multiplo                           |
-   | 9        | 4.5      | cout << 9 % 4.5; |    1   | No es multiplo                           |
+   | 9        | 4.5      | cout << 9 % 4.5; |  Error | % solo se usa con enteros                |
    | 16       | 2        | cout << 16 % 2;  |    0   | Si es multiplo                           |
 
 2. ¿Qué pasa si colocamos un punto y coma (;) después del final de la expresión de condición de una declaración if? 
