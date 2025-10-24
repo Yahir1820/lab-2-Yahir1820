@@ -2,19 +2,15 @@
 using namespace std;
 
 int main () {
-    int ent[2];
+    int ent = 0;
+ 
+    cout << "Ingrese un entero: ";
+    cin >> ent;
 
-    cout << "Ingrese dos enteros: ";
-    for (int i = 0; i < 2; i++ )  {
-        cin >> ent[i];
-    }
-    
-    if (ent[1] == 0) {
-        cout << "Ingrese un segundo entero valido" << endl; 
-    } else if (ent[0] % ent[1] == 0) {
-        cout << ent[0] <<  " es multiplo de " << ent[1] << endl;
-    } else if (ent[0] % ent[1] != 0) {
-        cout << ent[0] <<  " no es multiplo de " << ent[1] << endl;
+    if (ent % 2 == 0) {
+        cout << ent <<  " es un numero par." << endl;
+    } else if (ent % 2 != 0) {
+        cout << ent <<  " es un numero impar." << endl;
     }
 
     return 0;
