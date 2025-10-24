@@ -23,5 +23,8 @@ El más grande es 27
 3. En el programa, probablemente usó una variable double o float para almacenar el promedio. Cambie el tipo de esa variable a entero. ¿El resultado es diferente de lo que observó anteriormente? Si, usando una variable de entero el promedio no toma en cuenta los decimales.
 
 ## ✅ Resultado
+Programa sin modificar:
+![Sin modificar](image-1.png)
 
+Programa modificado
 ![Resultado ejerc1](image.png)
