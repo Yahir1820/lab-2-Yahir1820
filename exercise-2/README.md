@@ -28,9 +28,9 @@ El punto y coma (;) terminaria con la declaración if, lo que causará error si 
 3. Modifique el programa para determinar si un número ingresado es par o impar. [Nota: Ahora, el usuario necesita ingresar solo un número.]
 
 ## ✅ Resultado
-Programa si modificar
+Programa sin modificar:  
 ![Resultado sin modificar](image-1.png)
 
 
-Programa modificado
+Programa modificado:   
 ![Resultado modificado](image.png)
