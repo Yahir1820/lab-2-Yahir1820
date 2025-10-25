@@ -17,10 +17,14 @@ El más grande es 27
 
 1. Modifique su solución para usar tres declaraciones cin separadas en lugar de una. Escribe un mensaje separado para cada cin.
 
-2. ¿Importa si se usa < o <= al hacer comparaciones para determinar el número entero más pequeño? ¿Cuál usaste y por qué? 
+2. ¿Importa si se usa < o <= al hacer comparaciones para determinar el número entero más pequeño? ¿Cuál usaste y por qué?
+    Si importa, usé < y > ya que el <= ó >= podría hacer que funcione mal la determinación para saber cual es mayor o menor.
 
-3. En el programa, probablemente usó una variable double o float para almacenar el promedio. Cambie el tipo de esa variable a entero. ¿El resultado es diferente de lo que observó anteriormente? Si, 
+3. En el programa, probablemente usó una variable double o float para almacenar el promedio. Cambie el tipo de esa variable a entero. ¿El resultado es diferente de lo que observó anteriormente? Si, usando una variable de entero el promedio no toma en cuenta los decimales.
 
 ## ✅ Resultado
+Programa sin modificar:
+![Sin modificar](image-1.png)
 
-(Añadir captura de pantalla del resultado de la ejecución)
+Programa modificado
+![Resultado ejerc1](image.png)
