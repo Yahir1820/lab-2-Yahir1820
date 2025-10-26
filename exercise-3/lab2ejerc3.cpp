@@ -33,8 +33,5 @@ int main () {
         cout << "Ingrese digitos validos";
     }
 
-    
-
-   
     return 0;
 }
