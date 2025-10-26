@@ -26,4 +26,4 @@ Dígitos separados: 4 2 3 3 9
 3. El programa que completó en este ejercicio de laboratorio ingresa un número con varios dígitos y separa los dígitos. Escribe un programa inverso, un programa que le pide al usuario tres números de un dígito y los combina en un solo número de tres dígitos.
 
 ## ✅ Resultado
-![Ejercicio3](image-3.png)
+![ejercicio 3](image-1.png)
