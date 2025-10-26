@@ -16,3 +16,4 @@ x  f(x)
 5  105
 ***********
 ```
+![ejercicio 5](image-1.png)

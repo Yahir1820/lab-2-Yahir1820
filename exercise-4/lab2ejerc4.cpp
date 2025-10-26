@@ -12,15 +12,16 @@ int main () {
     int mayor = nums[0];
     int menor = nums[0];
     for (int i = 1; i < 3; i++) {
-    if (nums[i] > mayor)
-        mayor = nums[i];
-    if (nums[i] < menor)
-        menor = nums[i];
+        if (nums[i] > mayor)
+            mayor = nums[i];
+        if (nums[i] < menor)
+            menor = nums[i];
     }
-    for ( int i = 0; i < 3; i++; mayor > nums[i] > menor) {
-        // if (mayor > nums[i] > menor) {
-            cout << "El numero medio del medio es: " << nums[i];
-        // }
+    
+    for ( int i = 0; i < 3; i++) {
+        if (mayor > nums[i] && nums[i] > menor) {
+            cout << "El numero del medio es: " << nums[i];
+        }
     }
 
 
